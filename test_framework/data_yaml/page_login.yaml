@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+login:
+  - find: {id: XXX}
+  - click: None
+  - find: {text: XXX}
+  - send_keys: XXX
+
+
+forget:
+  - find: {id: XXX}
+  - click: None
+
+
+
+
+
