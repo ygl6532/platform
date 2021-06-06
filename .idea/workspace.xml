@@ -193,7 +193,7 @@
       <workItem from="1622902252903" duration="4275000" />
       <workItem from="1622908936457" duration="5425000" />
       <workItem from="1622957506742" duration="2829000" />
-      <workItem from="1622962896342" duration="297000" />
+      <workItem from="1622962896342" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary="基本测试架构">
       <created>1622961120163</created>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622963032824</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="基本测试架构">
+      <created>1622963407847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622963407847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,10 +307,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="394" y="129" key="SettingsEditor/0.30.1920.1050/1920.0.1536.864@0.30.1920.1050" timestamp="1622961189384" />
-    <state x="680" y="210" key="Vcs.Push.Dialog.v2" timestamp="1622963048347">
+    <state x="680" y="210" key="Vcs.Push.Dialog.v2" timestamp="1622963422469">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="680" y="210" key="Vcs.Push.Dialog.v2/0.30.1920.1050/1920.0.1536.864@0.30.1920.1050" timestamp="1622963048347" />
+    <state x="680" y="210" key="Vcs.Push.Dialog.v2/0.30.1920.1050/1920.0.1536.864@0.30.1920.1050" timestamp="1622963422469" />
     <state x="332" y="156" width="1477" height="582" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622885603639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
