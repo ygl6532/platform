@@ -28,5 +28,10 @@ class DemoPage(BasePage):
 
     def search(self,keyword):
 
+
+        self.po_run("search")
+
         self.find(self._search_button).click()
+
+        return self
 

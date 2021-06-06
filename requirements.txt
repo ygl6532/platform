@@ -2,3 +2,4 @@ selenium
 Appium-Python-Client
 PyYaml
 pytest
+logging

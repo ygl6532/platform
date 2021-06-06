@@ -18,5 +18,13 @@ forget:
 
 
 
+search:
+  - id: home_search
+  - click: []
+  - id: search_input_text
+  - send_keys: alibaba
+  - id: name
+  - click: []
+
 
 
